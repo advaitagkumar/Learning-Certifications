@@ -1,4 +1,6 @@
 # My-Learnings
+•	Bloomberg Market Concepts Certificate 
+
 •	Coursera:
 1.	Basic Statistics
 2.	Introduction to Data Analysis on Excel
